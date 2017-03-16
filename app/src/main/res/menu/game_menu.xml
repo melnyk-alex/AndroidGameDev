@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="PLAY"
+        android:id="@+id/mi_play"
+        android:icon="@android:drawable/ic_media_play" />
+    <item android:title="STAT"
+        android:id="@+id/mi_stat"
+        android:icon="@android:drawable/btn_star" />
+</menu>
